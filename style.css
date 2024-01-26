@@ -1,0 +1,8 @@
+body{
+    background-image:url(https://www.snowtrex.co.uk/magazine/files/2022/03/RS5318_shutterstock_556867714-scr.jpg);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+}
+
+table,th,td{ border: 1px solid black;}
